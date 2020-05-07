@@ -10,3 +10,5 @@ C++
 C#
 
 with the above languages object oriented programming languages also came across.
+
+JAVA is popular OOPS technology that is currently using.
